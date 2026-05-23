@@ -1,4 +1,6 @@
-This repository contains two parts:
+The archive contains files supporting CRSS
+
+The archive contains two parts:
 1) Python scripts for depicting the cyberattack propagation for 
 2) Excel template and examples for cyber resilience calculation using CRSS for CVE-2014-0160 and CVE-2017-0144 
 
